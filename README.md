@@ -6,8 +6,8 @@ O Git é um conceito essencial no mercado de trabalho atualmente, por isso sempr
 ## Checklist do Desafio
 - [x] Criar uma aplicação Flutter​
 - [x] Criar um banco de dados / Back4App​
-- [ ] Criar uma tela de lista de tarefas​
-- [ ] Listar as tarefas de forma reativa​
+- [x] Criar uma tela de lista de tarefas​
+- [x] Listar as tarefas de forma reativa​
 - [ ] Obtendo os dados da base de dados e não da memória​
 - [ ] Utilizar o gerenciamento de estado de sua preferência
 
@@ -15,3 +15,5 @@ O Git é um conceito essencial no mercado de trabalho atualmente, por isso sempr
 [Gerenciamento de Estado e Padrões em Flutter.pptx](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EdPq-LQUGIBOr9s-o-EA_q8BYZCzh0A47NUuv2Y2YG8laQ?e=vPJfuk)
   
 Bons estudos 😉
+
+![Lista de Tarefas](Screenshot%202023-06-14%20092140.png)
